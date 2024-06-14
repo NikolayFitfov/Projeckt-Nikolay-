@@ -1,0 +1,16 @@
+C:\Nikolay 11d\Zadacha6Nikolay\Zadacha6Nikolay\bin\Debug\Zadacha6Nikolay.exe.config
+C:\Nikolay 11d\Zadacha6Nikolay\Zadacha6Nikolay\bin\Debug\Zadacha6Nikolay.exe
+C:\Nikolay 11d\Zadacha6Nikolay\Zadacha6Nikolay\bin\Debug\Zadacha6Nikolay.pdb
+C:\Nikolay 11d\Zadacha6Nikolay\Zadacha6Nikolay\bin\Debug\EntityFramework.dll
+C:\Nikolay 11d\Zadacha6Nikolay\Zadacha6Nikolay\bin\Debug\EntityFramework.SqlServer.dll
+C:\Nikolay 11d\Zadacha6Nikolay\Zadacha6Nikolay\bin\Debug\EntityFramework.xml
+C:\Nikolay 11d\Zadacha6Nikolay\Zadacha6Nikolay\bin\Debug\EntityFramework.SqlServer.xml
+C:\Nikolay 11d\Zadacha6Nikolay\Zadacha6Nikolay\obj\Debug\Zadacha6Nikolay.csproj.AssemblyReference.cache
+C:\Nikolay 11d\Zadacha6Nikolay\Zadacha6Nikolay\obj\Debug\Zadacha6Nikolay.Form1.resources
+C:\Nikolay 11d\Zadacha6Nikolay\Zadacha6Nikolay\obj\Debug\Zadacha6Nikolay.Properties.Resources.resources
+C:\Nikolay 11d\Zadacha6Nikolay\Zadacha6Nikolay\obj\Debug\Zadacha6Nikolay.csproj.GenerateResource.cache
+C:\Nikolay 11d\Zadacha6Nikolay\Zadacha6Nikolay\obj\Debug\Zadacha6Nikolay.csproj.CoreCompileInputs.cache
+C:\Nikolay 11d\Zadacha6Nikolay\Zadacha6Nikolay\obj\Debug\Zadacha6.10624BBC.Up2Date
+C:\Nikolay 11d\Zadacha6Nikolay\Zadacha6Nikolay\obj\Debug\Zadacha6Nikolay.exe
+C:\Nikolay 11d\Zadacha6Nikolay\Zadacha6Nikolay\obj\Debug\Zadacha6Nikolay.pdb
+C:\Nikolay 11d\Zadacha6Nikolay\Zadacha6Nikolay\obj\Debug\Zadacha6Nikolay.Migrations.InitialMigration.resources
